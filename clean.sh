@@ -1,0 +1,1 @@
+rm -rf *Makefile build bin */*Makefile

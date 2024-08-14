@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Makefiles
+Makefile
+*\Makefile
+*\*\Makefile
+
+# Build & Bin Folders
+bin/*
+build/*
